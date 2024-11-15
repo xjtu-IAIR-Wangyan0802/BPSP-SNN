@@ -1,0 +1,11 @@
+numpy
+matplotlib
+tensorboard
+tqdm
+pyyaml
+pandas
+seaborn
+scikit-learn
+spikingjelly
+ninja
+setuptools==59.5.0
